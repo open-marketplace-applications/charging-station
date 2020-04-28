@@ -1,0 +1,18 @@
+{
+  "name": "charging-station",
+  "version": "0.0.1",
+  "description": "CHarging station application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "iota-payment": "0.0.62",
+    "python-shell": "^1.0.8",
+    "shelljs": "^0.8.4"
+  }
+}
