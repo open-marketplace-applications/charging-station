@@ -6,7 +6,7 @@
      <img
       alt="open marketplace apps"
       src="./public/oma.jpg"
-      width="100"
+      width="200"
     />
   </a>
 </p>
